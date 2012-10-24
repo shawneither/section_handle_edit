@@ -8,6 +8,7 @@ Github repo: <https://github.com/Neither/section_handle_edit>
 A way to edit the section handle separately from the section name.  
 Useful for multilingual sites which require non-English section names.
 
+Credit: This is basically m-r Tarakanoff's old extension with a few bits taken out and files updated to match Symphony 2.3 extension specs.
 
 ## 2 Installation
 
