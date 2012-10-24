@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="section_handle_edit" status="experimental" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+
+	<name>Section Handle Edit</name>
+	<description>A way to edit the section handle.</description>
+	<!-- <repo type="github">https://github.com/NONEYET</repo> -->
+	<!-- <url type="discuss">http://symphony-cms.com/discuss/thread/NONEYET/</url> -->
+
+	<types>
+		<type>Interface</type>
+		<type>Workflow</type>
+	</types>
+
+	<authors>
+		<author>
+			<name symphony="tarakanoff">m-r Tarakanoff</name>
+			<website>http://tarakanoffth.yvision.kz/</website>
+		</author>
+		<author>
+			<name github="Neither" symphony="Neither">Shaw</name>
+			<email>shaw@neithercorp.com</email>
+			<website>http://neithercorp.com/</website>
+		</author>
+	</authors>
+
+	<releases>
+		<release version="1.0.1" date="2012-10-24" min="2.3"><![CDATA[
+			* Removed call causing Symphony database error
+		]]></release>
+
+		<release version="1.0.0" date="2011-11-3" min="2.2"><![CDATA[
+			* Initial release
+		]]></release>
+	</releases>
+
+</extension>
