@@ -3,7 +3,7 @@
 
 	<name>Section Handle Edit</name>
 	<description>A way to edit the section handle.</description>
-	<repo type="github">https://github.com/Neither/Section-Handle-Edit</repo>
+	<repo type="github">https://github.com/Neither/section_handle_edit</repo>
 	<!-- <url type="discuss">http://symphony-cms.com/discuss/thread/NONEYET/</url> -->
 
 	<types>

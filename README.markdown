@@ -1,7 +1,7 @@
 Section Handle Edit
 ===================
 
-Github repo: <https://github.com/Neither/Section-Handle-Edit>
+Github repo: <https://github.com/Neither/section_handle_edit>
 
 ## 1 About
 
