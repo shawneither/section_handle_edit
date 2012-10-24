@@ -1,7 +1,7 @@
 Section Handle Edit
 ===================
 
-Github repo: <https://github.com/vlad-ghita/limit_section_entries>
+Github repo: <https://github.com/Neither/Section-Handle-Edit>
 
 ## 1 About
 
