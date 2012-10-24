@@ -18,9 +18,9 @@ Useful for multilingual sites which require non-English section names.
 
 ## 3 Usage
 
-When creating a new section or editing an existing one, you can specify the section handle separately from the section name.
-If you input a handle which already exists for another section, the handle will be forced back to the default sanitized version of your section name.
-Be careful to only input 'handle-ized' handles, ie: no spaces or punctuation other than dashes (`-`), no non-latin characters, all lowercase.
+When creating a new section or editing an existing one, you can specify the section handle separately from the section name.  
+If you input a handle which already exists for another section, the handle will be forced back to the default sanitized version of your section name.  
+Be careful to only input 'handle-ized' handles, ie: no spaces or punctuation other than dashes (`-`), no non-latin characters, all lowercase.  
 
 
 ## 4 To Do
